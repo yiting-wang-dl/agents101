@@ -7,6 +7,10 @@ This is a lightweight environment to experiment with AI agents using:
 - **LCEL (LangChain Expression Language)**
 - **LangGraph**
 
+Sources: 
+https://github.com/DjangoPeng/openai-quickstart
+https://github.com/DjangoPeng/LLM-quickstart
+
 ---
 
 ## ⚙️ Environment Setup
